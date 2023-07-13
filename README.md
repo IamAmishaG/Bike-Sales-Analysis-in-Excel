@@ -24,6 +24,4 @@ Purchased Bike
 - Data Visualization- Using the insights gained from the pivot tables and charts, created an interactive dashboard that effectively communicated the findings from the Bike Buyers 1000 dataset.
 
 
-
-
-* * [LINK TO DATASET](https://www.kaggle.com/datasets/heeraldedhia/bike-buyers)* *
+**[LINK TO DATASET](https://www.kaggle.com/datasets/heeraldedhia/bike-buyers)**
