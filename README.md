@@ -24,6 +24,6 @@ This dataset has details of 1000 users from different backgrounds and whether or
 - Data Visualization- Using the insights gained from the pivot tables and charts, created an interactive dashboard that effectively communicated the findings from the Bike Buyers 1000 dataset.
 
 
-**Note**
-This dataset is from Kaggle.com.
+**Note:**
+- This dataset is from Kaggle.com.
 [LINK TO DATASET](https://www.kaggle.com/datasets/heeraldedhia/bike-buyers)
