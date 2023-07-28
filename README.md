@@ -14,7 +14,7 @@ This dataset has details of 1000 users from different backgrounds and whether or
 - Home Owner: Denotes if customer owns a home or not
 - Cars: Number of cars customer owns
 - Commute Distance: Miles commuted by customer
-- Region: Region CUtsomer belongs
+- Region: Region Cutsomer belongs
 - Age: Age of the Customer
 - Purchased Bike: Denotes Bike purchased or not  
 
