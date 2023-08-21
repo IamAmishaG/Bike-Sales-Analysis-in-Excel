@@ -1,7 +1,7 @@
 # Bike-Sales-Analysis-in-Excel
 
 ## Description:
-This dataset has details of 1000 users from different backgrounds and whether or not they buy a bike. The goal was to analyse the data on what kind of customers and how their backgrounds determine the bike sales. 
+The pinnacle of this project is the creation of an interactive dashboard that distills discoveries from the Bike Buyers 1000 dataset. Leveraging the insights from pivot tables and dynamic charts, the dashboard provides an in-depth understanding of the relationships between customer attributes and bike sales performance.
 
 **Data Dictonary:**
 - ID: Customer ID
@@ -19,9 +19,12 @@ This dataset has details of 1000 users from different backgrounds and whether or
 - Purchased Bike: Denotes Bike purchased or not  
 
 ## Project Task:
-- Data cleaning and preparing- Found no duplicate records or missing values, then began standardizing data formats to ensure the accuracy of the data. 
-- Data exploration- Used Excel's pivot tables and charts to create insightful summaries of the data such as the most common customer segments, the average income of customers. Leveraged Excel's built-in charting features to create visually appealing and informative charts such as bar charts, line charts, etc. 
-- Data Visualization- Using the insights gained from the pivot tables and charts, created an interactive dashboard that effectively communicated the findings from the Bike Buyers 1000 dataset.
+- Data Cleaning and Preparation: Ensured data integrity by removing duplicates and addressing missing values. Standardized data formats for accuracy.
+- Data Exploration: Employed Excel's pivot tables and charts to derive meaningful summaries such as prevalent customer segments and average customer income.
+- Visual Insights: Utilized Excel's built-in charting capabilities to craft compelling visualizations, including bar charts and line graphs.
+- Interactive Dashboard Creation: Synthesized insights into an interactive dashboard, offering a comprehensive view of customer characteristics' impact on bike sales.
+
+<kbd>![BikeSales](https://github.com/IamAmishaG/Bike-Sales-Analysis-in-Excel/assets/132007481/0ca7f724-db46-4373-8b72-0cc6cc4a1377)
 
 
 *Note-
