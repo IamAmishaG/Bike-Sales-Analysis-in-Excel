@@ -25,7 +25,7 @@ The pinnacle of this project is the creation of an interactive dashboard that di
 - Interactive Dashboard Creation: Synthesized insights into an interactive dashboard, offering a comprehensive view of customer characteristics' impact on bike sales.
 
 <kbd>![BikeSales](https://github.com/IamAmishaG/Bike-Sales-Analysis-in-Excel/assets/132007481/0ca7f724-db46-4373-8b72-0cc6cc4a1377)
-*View the xlsx sheet in the file to access this*
+*Head to the xlsx sheet in the repository to view this*
 
 *Note-
 This dataset is from Kaggle.com.
